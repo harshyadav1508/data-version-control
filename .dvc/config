@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = ../Documents/harsh_yadav/dvc_real_python/dvc_remote
